@@ -4,7 +4,7 @@
     <ul>
       <li>
         <a href="#">
-          😱 Database Management Systems
+          🌎 Database Management Systems
       </li>
       <li>
         <a href="#">
