@@ -23,6 +23,11 @@
           👩🏼‍💻  Software Engineering
         </a>
       </li>
+      <li>
+        <a href="#">
+         🇺🇸English
+        </a>
+      </li>
     </ul>
 </ul>
 <br>
