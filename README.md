@@ -8,7 +8,7 @@
       </li>
       <li>
         <a href="#">
-          :newspaper:  Web Programming
+          🤳  Web Programming
       </li>
       <li>
         <a href="#">
