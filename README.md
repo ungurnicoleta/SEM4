@@ -4,7 +4,7 @@
     <ul>
       <li>
         <a href="#">
-          :nut_and_bolt:  Database Management Systems
+          😱 Database Management Systems
       </li>
       <li>
         <a href="#">
@@ -12,15 +12,15 @@
       </li>
       <li>
         <a href="#">
-          :zap:  Systems for Design and Implementation
+          👩🏼‍🏫  Systems for Design and Implementation
       </li>
       <li>
         <a href="#">
-          :ferris_wheel:  Artificial Intelligence
+          👓  Artificial Intelligence
       </li>
       <li>
         <a href="#">
-          :ambulance:  Software Engineering
+          👩🏼‍💻  Software Engineering
         </a>
       </li>
     </ul>
