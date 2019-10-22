@@ -11,7 +11,7 @@
           🤳  Web Programming
       </li>
       <li>
-        <a href="#">
+        <a href="https://github.com/ungurnicoleta/SEM4/tree/master/MPP">
           👩🏼‍🏫  Systems for Design and Implementation (MPP)
       </li>
       <li>
@@ -24,7 +24,7 @@
         </a>
       </li>
       <li>
-        <a href="#">
+        <a href="https://github.com/ungurnicoleta/SEM4/tree/master/English">
          🇺🇸English
         </a>
       </li>
