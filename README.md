@@ -12,7 +12,7 @@
       </li>
       <li>
         <a href="#">
-          👩🏼‍🏫  Systems for Design and Implementation
+          👩🏼‍🏫  Systems for Design and Implementation (MPP)
       </li>
       <li>
         <a href="#">
