@@ -1,0 +1,10 @@
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Nicoleta Ungur\Desktop\SGBD\Lab2\Lab2\obj\Debug\Lab2.Form1.resources

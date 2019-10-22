@@ -1,0 +1,10 @@
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\bin\Debug\Deadlock.exe.config
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\bin\Debug\Deadlock.exe
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\bin\Debug\Deadlock.pdb
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\obj\Debug\Deadlock.csprojAssemblyReference.cache
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\obj\Debug\Deadlock.Properties.Resources.resources
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.GenerateResource.cache
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\obj\Debug\Deadlock.exe
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\obj\Debug\Deadlock.pdb
+C:\Users\Nicoleta Ungur\Desktop\SGBD\DeadLock\Deadlock\Deadlock\obj\Debug\Deadlock.Form1.resources
