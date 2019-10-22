@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="catalog-1-ngjpa_main" target="1.8" />
+      <module name="catalog-1-ngjpa_test" target="1.8" />
+      <module name="ro.ubb.catalog-1-list.catalog-1-list.main" target="11" />
+      <module name="ro.ubb.catalog-1-list.catalog-1-list.test" target="11" />
+      <module name="ro.ubb.catalog-1-list.catalog-core.main" target="11" />
+      <module name="ro.ubb.catalog-1-list.catalog-core.test" target="11" />
+      <module name="ro.ubb.catalog-1-list.catalog-web.main" target="11" />
+      <module name="ro.ubb.catalog-1-list.catalog-web.test" target="11" />
+      <module name="ro.ubb.catalog.catalog-1-list.main" target="11" />
+      <module name="ro.ubb.catalog.catalog-1-list.test" target="11" />
+      <module name="ro.ubb.catalog.catalog-core.main" target="11" />
+      <module name="ro.ubb.catalog.catalog-core.test" target="11" />
+      <module name="ro.ubb.catalog.catalog-web.main" target="11" />
+      <module name="ro.ubb.catalog.catalog-web.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

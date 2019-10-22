@@ -1,0 +1,5 @@
+rootProject.name = 'bookstoreLab9'
+include 'bookstore-client'
+include 'bookstore-core'
+include 'bookstore-web'
+

@@ -1,0 +1,16 @@
+<div>
+  <label>Serial number:</label>
+  <input #serialNumber><br>
+
+  <label>Name:</label>
+  <input #name><br>
+
+  <label>Group number:</label>
+  <input #groupNumber><br>
+</div>
+
+<div>
+  <button (click)="save(serialNumber.value,name.value,groupNumber.value)">Save
+  </button>
+</div>
+
