@@ -12,14 +12,14 @@
       </li>
       <li>
         <a href="#">
-          👩🏼‍🏫  Systems for Design and Implementation
+          👩🏼‍🏫  Systems for Design and Implementation (MPP)
       </li>
       <li>
         <a href="#">
           👓  Artificial Intelligence
       </li>
       <li>
-        <a href="#">
+        <a href="https://github.com/ungurnicoleta/SEM4/tree/master/ISS">
           👩🏼‍💻  Software Engineering
         </a>
       </li>
