@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+    <style>
+        #profile-table {
+            border-collapse: collapse;
+            width: 20%;
+        }
+        #profile-table {
+            border: 1px solid black;
+        }
+        th {
+            height: 40px;
+        }
+        th, td {
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        img:hover {
+            opacity: 0.5;
+        }
+    </style>
+    <script src="js/jquery-2.0.3.js"></script>
+    <script src="js/ajax-utils.js"></script>
+</head>
+<body>
+
+<br/>
+    <h1>Search Profiles</h1>
+    <span style="font-weight: bold; background-color: mediumseagreen">Fields</span><br/>
+    <table>
+        <tr><td>Name: </td><td><input type="text" id="profile-name"></td></tr>
+        <tr><td>Email: </td><td><input type="text" id="profile-email"></td></tr>
+        <tr><td>Address: </td><td><input type="text" id="profile-address"></td></tr>
+        <tr><td>Age: </td><td><input type="text" id="profile-age"></td></tr>
+        <tr><td>Hometown: </td><td><input type="text" id="profile-homeTown"></td></tr>
+        <tr><td><button type="button" id="search-btn">GO</button></td><td></td></tr>
+    </table>
+    <section><table id="profile-table"></table></section>
+
+    <script>
+        $(document).ready(function() {
+            $("#search-btn").click(function(){
+                getProfiles($("#profile-name").val(),
+                    $("#profile-email").val(),
+                    $("#profile-address").val(),
+                    $("#profile-age").val(),
+                    $("#profile-homeTown").val(), function (profiles) {
+                    $("#profile-table").html("");
+                    $("#profile-table").append("<tr style='background-color: mediumseagreen'><td>Name</td><td>Email</td>" +
+                        "<td>Address</td><td>Age</td><td>Hometown</td><td>Photo</td></tr>");
+                    for(var p in profiles)
+                        $("#profile-table").append("<tr><td>" + profiles[p].name + "</td>" +
+                            "<td>" + profiles[p].email + "</td>" +
+                            "<td>" + profiles[p].address + "</td>" +
+                            "<td>" + profiles[p].age + "</td>" +
+                            "<td>" + profiles[p].homeTown + "</td>" +
+                            "<td><img src='" + profiles[p].imgSrc + "' alt='User Photo' width='200px' height='150px'></td></tr>");
+                    $("#profile-name").val('')
+                    $("#profile-email").val('');
+                    $("#profile-address").val('');
+                    $("#profile-age").val('');
+                    $("#profile-homeTown").val('');
+                });
+            });
+        });
+    </script>
+</body>
+</html>

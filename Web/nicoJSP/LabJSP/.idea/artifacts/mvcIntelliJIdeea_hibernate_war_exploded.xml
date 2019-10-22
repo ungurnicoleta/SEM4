@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mvcIntelliJIdeea-hibernate:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mvcIntelliJIdeea_hibernate_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mvcIntelliJIdeea-withAjaxJSON/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mvcIntelliJIdeea-withAjaxJSON" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.34-bin" />
+          <element id="library" level="project" name="json-simple-1.1.1" />
+          <element id="library" level="project" name="servlet-api" />
+          <element id="library" level="project" name="postgresql-42.2.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
