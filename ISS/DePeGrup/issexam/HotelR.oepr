@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project name="HotelR">
+    <Directory kind="0" name="Constraints">
+        <File AbsolutePath="C:/Users/chior/OCLE/HotelRF/HotelR.bcr" RelativePath="HotelR.bcr" kind="1" selected="true"/>
+    </Directory>
+    <Directory kind="0" name="Models">
+        <Model AbsolutePath="C:/Users/chior/OCLE/HotelRF/HotelR.xml.zip" RelativePath="HotelR.xml.zip" kind="4" selected="true"/>
+    </Directory>
+</Project>

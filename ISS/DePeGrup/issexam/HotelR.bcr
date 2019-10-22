@@ -1,0 +1,14 @@
+model HotelR
+
+
+context Hotel
+
+        def couldBeBooked:
+       
+    let couldBeBooked(tr:RoomType, st:Date, en:Date):Boolean =  self.roomTypes->any(rt | rt = tr).rooms->exists(r | r.booked->isEmpty) or 
+                                                                self.roomTypes->any(rt | rt = tr).rooms->reject(r | r.booked->exists(b |b.isBooked))->notEmpty
+
+    let couldBeBookedR(tr:RoomType, st:Date, en:Date):Boolean = self.roomTypes->any(rt | rt = tr).rooms->reject(r | r.booked->exists(b |b.isBooked))->notEmpty
+  
+
+endmodel
