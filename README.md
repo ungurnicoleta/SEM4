@@ -3,7 +3,7 @@
   <li>:open_file_folder: Semester 4
     <ul>
       <li>
-        <a href="#">
+        <a href="https://github.com/ungurnicoleta/SEM4/tree/master/SGBD">
           🌎 Database Management Systems
       </li>
       <li>
@@ -15,7 +15,7 @@
           👩🏼‍🏫  Systems for Design and Implementation (MPP)
       </li>
       <li>
-        <a href="#">
+        <a href="https://github.com/ungurnicoleta/SEM4/tree/master/AI">
           👓  Artificial Intelligence
       </li>
       <li>
